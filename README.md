@@ -1,4 +1,4 @@
-# AI detection for Word documents
+﻿# AI detection for Word documents
 
 This project analyzes .docx files and highlights likely AI-generated paragraphs.
 
